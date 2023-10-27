@@ -1,2 +1,2 @@
 # inf201_assignment
-<img src="images/input.jpg"/>
+<img src="images/input.png"/>
